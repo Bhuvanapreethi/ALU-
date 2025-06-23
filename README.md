@@ -20,4 +20,5 @@ This process gave me practical insight into how digital circuits are tested befo
 Conclusion
 The ALU task on CodeTech, combined with the use of Icarus Verilog 12.0, was a valuable learning experience that strengthened my understanding of digital design and HDL simulation. It introduced me to the real-world development workflow of designing and testing processor components. This task not only improved my technical skills but also built confidence in working with industry-standard tools.
  #output
+ ![Image](https://github.com/user-attachments/assets/715cc6de-1c27-406c-85c5-dd7943bf067b)
  
